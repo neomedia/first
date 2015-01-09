@@ -14,5 +14,7 @@
     <author href="neo-media.org" email="office@neo-media.org">
         Neo Media 
     </author>
+    
+    <preference name="phonegap-version"           value="3.6.3" />
 
 </widget>
